@@ -1,0 +1,8 @@
+LOC	Line	Source_code
+		1		$	ORG	2000H
+2000	2		$	INC	A	$	$
+2001	3		$	CJNE	R3	#20H	35H
+2004	4		$	MOV	30H	R5	$
+2006	5		$	AJMP	here	$	$
+2008	6		BACK:	INC	R0	$	$
+		7		$	END	$	$	$

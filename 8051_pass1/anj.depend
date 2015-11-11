@@ -1,0 +1,102 @@
+# depslib dependency file v1.0
+1444031285 source:c:\users\user\desktop\anj\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"header.h"
+	"function.c"
+
+1444031109 c:\users\user\desktop\anj\header.h
+
+1444031193 c:\users\user\desktop\anj\function.c
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<stdlib.h>
+	<ctype.h>
+	"header.h"
+
+1444031286 source:d:\anj\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"header.h"
+	"function.c"
+
+1444031110 d:\anj\header.h
+
+1444031194 d:\anj\function.c
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<stdlib.h>
+	<ctype.h>
+	"header.h"
+
+1444031286 source:c:\users\user\desktop\roll no 8\5.10\5.pass1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"header.h"
+	"function.c"
+
+1444031110 c:\users\user\desktop\roll no 8\5.10\5.pass1\header.h
+
+1444031194 c:\users\user\desktop\roll no 8\5.10\5.pass1\function.c
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<stdlib.h>
+	<ctype.h>
+	"header.h"
+
+1444031286 source:d:\5.pass1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"header.h"
+	"function.c"
+
+1444031110 d:\5.pass1\header.h
+
+1444031194 d:\5.pass1\function.c
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<stdlib.h>
+	<ctype.h>
+	"header.h"
+
+1444031194 source:d:\5.pass1\function.c
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<stdlib.h>
+	<ctype.h>
+	"header.h"
+
+1444031194 source:c:\users\user\desktop\007\8051p1\function.c
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<stdlib.h>
+	<ctype.h>
+	"header.h"
+
+1444031110 c:\users\user\desktop\007\8051p1\header.h
+
+1444031286 source:c:\users\user\desktop\007\8051p1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"header.h"
+	"function.c"
+
+1444031194 c:\users\user\desktop\007\8051p1\function.c
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<stdlib.h>
+	<ctype.h>
+	"header.h"
+

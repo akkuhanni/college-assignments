@@ -1,0 +1,7 @@
+$ ORG 2000H
+$ INC A
+$ CJNE R3,#20H,35H
+$ MOV 30H,R5
+$ AJMP here
+BACK: INC R0
+$ END $
